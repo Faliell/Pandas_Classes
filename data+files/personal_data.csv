@@ -1,0 +1,17 @@
+first,last,measurement,value
+John,Doe,height,188
+Mary,Bo,height,160
+Sean,Kay,height,175
+John,Lee,height,169
+John,Doe,weight,200
+Mary,Bo,weight,120
+Sean,Kay,weight,166
+John,Lee,weight,178
+John,Doe,eye_color,blue
+Mary,Bo,eye_color,brown
+Sean,Kay,eye_color,black
+John,Lee,eye_color,brown
+John,Doe,age,29
+Mary,Bo,age,38
+Sean,Kay,age,67
+John,Lee,age,80
